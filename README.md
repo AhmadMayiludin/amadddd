@@ -1,5 +1,5 @@
 
-# 🚀 Panduan Instalasi XAMPP, Composer, dan Laravel (Windows)
+# 🚀 Panduan Instalasi Laragon, Composer, dan Laravel (Windows)
 =======
 
 
@@ -81,7 +81,7 @@ Ini akan buat folder Proeject-Ahmad di C:\laragon\www
 4.	Cek Laravel apakah berhasil terinstall
 
 
-  ![Laravel Version](./images/Versionframework.png)
+  ![Laravel Version](./images/versionframework.png)
 
 
 
