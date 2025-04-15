@@ -4,7 +4,7 @@ Dokumen ini menjelaskan langkah-langkah untuk menginstal XAMPP, Composer, dan La
 
 ---
 
-## 1. 🔧 Instalasi XAMPP
+## 1. 🔧 Instalasi LARAGON
 
 ### Langkah-langkah:
 
