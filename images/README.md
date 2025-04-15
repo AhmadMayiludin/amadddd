@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 🚀 Panduan Instalasi Laravel, Composer, dan Laravel 11 (Windows)
+=======
+# 🚀 Panduan Instalasi XAMPP, Composer, dan Laravel 11 (Windows)
+>>>>>>> 4612482d17f12f1ce4f7f792ad38ffe398ad4afa
 
 Dokumen ini menjelaskan langkah-langkah untuk menginstal XAMPP, Composer, dan Laravel 11 pada sistem operasi **Windows**, lengkap dengan gambar pendukung. Seluruh gambar disimpan di dalam folder [`images/`](./images/) dalam struktur repository GitHub.
 
